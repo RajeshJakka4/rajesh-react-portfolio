@@ -17,12 +17,9 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          I am a dedicated DevOps Engineer with 2 years of hands-on experience
-          in streamlining and automating the software development lifecycle. 
-          My expertise lies in bridging the gap between development and operations,
-          ensuring efficient, reliable, and scalable deployment processes. 
-          I have successfully implemented Continuous Integration/Continuous Deployment 
-          (CI/CD) pipelines, automated infrastructure provisioning, and managed complex cloud environments.
+          As a recent graduate with a B.Tech in Electronics and Communication Engineering from JNTUA University, I am passionate about IT. 
+          I have developed a solid foundation in Key Skills like JAva,Git,Jenkins,Docker through my coursework, personal projects.
+          My portfolio showcases a range of projects where I have applied my skills in software development,data analysis to solve real-world problems.
         </p>
 
         <br />

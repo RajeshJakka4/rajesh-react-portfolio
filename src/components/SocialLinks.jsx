@@ -23,7 +23,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "jakkar89@gmail.com",
+      href: "rajeshjakka4@gmail.com",
      
       
 
@@ -35,7 +35,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1YVTWzil16u1SA2FtWq77Y9_1toTiXLaW/view?usp=drivesdk",
+      href: "https://drive.google.com/file/d/1aiDfIGfIhLSUNBNUNeyWtQ6kVFglk6E3/view?usp=drivesdk",
       style: "rounded-br-md",
       download: true,
     },

@@ -16,7 +16,7 @@ const Home = () => {
             I'm a Devops Engineer.
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have a 2 years of experience as a DevOps Engineer,
+            I am a fresher as a DevOps Engineer,
             you likely have developed a solid foundation in various tools and technologies like
             Git,CI/CD tools such as Jenkins,Docker,Kubernetes,AWS like Ec2,VPC,Gateways etc. 
           </p>
