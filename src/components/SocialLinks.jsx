@@ -15,7 +15,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "www.linkedin.com/in/rajesh-jakka",
+      href: "https://www.linkedin.com/in/rajesh-jakka",
       target: "_blank",
 
      
