@@ -1,14 +1,28 @@
 
 import React from "react";
-import { FaGithub } from "react-icons/fa";
+import { FaGithub,FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
 const SocialLinks = () => {
   const links = [
+
     
     {
       id: 1,
+      child: (
+        <>
+          LinkedIn <FaLinkedin size={30} />
+        </>
+      ),
+      href: "www.linkedin.com/in/rajesh-jakka",
+      target: "_blank",
+
+     
+    },
+    
+    {
+      id: 2,
       child: (
         <>
           GitHub <FaGithub size={30} />
@@ -17,25 +31,25 @@ const SocialLinks = () => {
       href: "https://github.com/RajeshJakka4",
     },
     {
-      id: 2,
+      id: 3,
       child: (
         <>
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "rajeshjakka4@gmail.com",
+      href: "jakkarajesh81@gmail.com",
      
       
 
     },
     {
-      id: 3,
+      id: 4,
       child: (
         <>
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1aiDfIGfIhLSUNBNUNeyWtQ6kVFglk6E3/view?usp=drivesdk",
+      href: "https://drive.google.com/file/d/1Rekw9ADXLxRPsIgshG_91qqnvXo48c9C/view?usp=drivesdk",
       style: "rounded-br-md",
       download: true,
     },
